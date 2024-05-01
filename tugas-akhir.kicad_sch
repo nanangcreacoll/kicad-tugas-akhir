@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "IoT Liquid Dispensing Iodium-131 Capsules")
-		(date "2024-04-26")
-		(rev "3")
+		(date "2024-05-01")
+		(rev "4")
 	)
 	(lib_symbols
 		(symbol "Connector:Conn_01x02_Pin"
