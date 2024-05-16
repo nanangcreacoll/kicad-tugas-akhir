@@ -3,15 +3,15 @@
     "GenerationSoftware": {
       "Vendor": "KiCad",
       "Application": "Pcbnew",
-      "Version": "8.0.1"
+      "Version": "8.0.2-8.0.2-0~ubuntu24.04.1"
     },
-    "CreationDate": "2024-05-01T14:14:17+07:00"
+    "CreationDate": "2024-05-17T00:13:56+07:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "tugas-akhir",
       "GUID": "74756761-732d-4616-9b68-69722e6b6963",
-      "Revision": "2"
+      "Revision": "3"
     },
     "Size": {
       "X": 120.1,
