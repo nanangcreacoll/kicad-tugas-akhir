@@ -1,7 +1,7 @@
 (export (version "E")
   (design
     (source "/media/nanangcreacoll/Door/nanang/tugas akhir/kicad/kicad-tugas-akhir/tugas-akhir.kicad_sch")
-    (date "2024-05-17T00:05:07+0700")
+    (date "2024-05-19T11:53:02+0700")
     (tool "Eeschema 8.0.2-8.0.2-0~ubuntu24.04.1")
     (sheet (number "1") (name "/") (tstamps "/")
       (title_block
@@ -22,9 +22,9 @@
   (components
     (comp (ref "C1")
       (value "C_Polarized_US (100μF)")
-      (footprint "Capacitor_THT:C_Radial_D8.0mm_H11.5mm_P3.50mm")
+      (footprint "Capacitor_THT:CP_Radial_D8.0mm_P3.50mm")
       (fields
-        (field (name "Footprint") "Capacitor_THT:C_Radial_D8.0mm_H11.5mm_P3.50mm")
+        (field (name "Footprint") "Capacitor_THT:CP_Radial_D8.0mm_P3.50mm")
         (field (name "Datasheet"))
         (field (name "Description")))
       (libsource (lib "Device") (part "C_Polarized_US") (description "Polarized capacitor, US symbol"))
@@ -36,9 +36,9 @@
       (tstamps "98aa3d03-c910-4cb2-955a-9c2bd4e354f8"))
     (comp (ref "C2")
       (value "C_Polarized_US (100μF)")
-      (footprint "Capacitor_THT:C_Radial_D8.0mm_H11.5mm_P3.50mm")
+      (footprint "Capacitor_THT:CP_Radial_D8.0mm_P3.50mm")
       (fields
-        (field (name "Footprint") "Capacitor_THT:C_Radial_D8.0mm_H11.5mm_P3.50mm")
+        (field (name "Footprint") "Capacitor_THT:CP_Radial_D8.0mm_P3.50mm")
         (field (name "Datasheet"))
         (field (name "Description")))
       (libsource (lib "Device") (part "C_Polarized_US") (description "Polarized capacitor, US symbol"))
@@ -50,9 +50,9 @@
       (tstamps "08dc7adf-0cdd-48ca-83f2-505dd69cce6d"))
     (comp (ref "C3")
       (value "C_Polarized_US (100μF)")
-      (footprint "Capacitor_THT:C_Radial_D8.0mm_H11.5mm_P3.50mm")
+      (footprint "Capacitor_THT:CP_Radial_D8.0mm_P3.50mm")
       (fields
-        (field (name "Footprint") "Capacitor_THT:C_Radial_D8.0mm_H11.5mm_P3.50mm")
+        (field (name "Footprint") "Capacitor_THT:CP_Radial_D8.0mm_P3.50mm")
         (field (name "Datasheet"))
         (field (name "Description")))
       (libsource (lib "Device") (part "C_Polarized_US") (description "Polarized capacitor, US symbol"))
@@ -93,7 +93,7 @@
       (sheetpath (names "/") (tstamps "/"))
       (tstamps "54d14b1e-585f-4972-88a4-b5a7afcba2b7"))
     (comp (ref "D3")
-      (value "D")
+      (value "1N4007")
       (footprint "Diode_THT:D_DO-41_SOD81_P7.62mm_Horizontal")
       (description "Diode")
       (fields
