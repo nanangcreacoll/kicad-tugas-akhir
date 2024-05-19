@@ -1,4 +1,4 @@
-23349314766051070
+23356170954484156
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -55789,6 +55789,13 @@ One digit LED 7 segment SA39-11 SC39-11 SA39-12 SC39-12
 0
 10
 10
+ESP32-DEVKIT-V1
+MODULE_ESP32_DEVKIT_V1
+
+
+0
+30
+30
 Ferrite_THT
 LairdTech_28C0236-0JW-10
 Ferrite, vertical, LairdTech 28C0236-0JW-10, https://assets.lairdtech.com/home/brandworld/files/28C0236-0JW-10.pdf, JW Miller core https://www.bourns.com/products/magnetic-products/j.w.-miller-through-hole-ferrite-beads-emi-filters
@@ -63636,6 +63643,13 @@ Yellow 5381 Series LED
 0
 2
 2
+MS0850502F030P1A
+SW_MS0850502F030P1A
+
+
+0
+3
+3
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
@@ -89284,6 +89298,13 @@ Logo WEEE
 0
 0
 0
+TMC2208_SILENTSTEPSTICK
+MODULE_TMC2208_SILENTSTEPSTICK
+
+
+0
+19
+19
 TerminalBlock
 TerminalBlock_Altech_AK300-2_P5.00mm
 Altech AK300 terminal block, pitch 5.0mm, 45 degree angled, see http://www.mouser.com/ds/2/16/PCBMETRC-24178.pdf
@@ -95339,3 +95360,10 @@ Varistor VF
 0
 2
 2
+dcdc_stepdown_lm2596
+DCDC_StepDown_LM2596
+
+
+0
+4
+4
