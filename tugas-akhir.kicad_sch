@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "IoT Liquid Dispensing Iodium-131 Capsules")
-		(date "2024-05-01")
-		(rev "4")
+		(date "2024-05-20")
+		(rev "5")
 	)
 	(lib_symbols
 		(symbol "Connector:Conn_01x02_Pin"
@@ -4669,6 +4669,12 @@
 		(uuid "0491857d-228b-4bb5-9dae-bbe30de06ad9")
 	)
 	(junction
+		(at 168.91 146.05)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "10ba155c-d364-4780-b877-268100aa301c")
+	)
+	(junction
 		(at 212.09 19.05)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4679,6 +4685,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1ab9d203-0f66-44d7-99d8-ef555ed9c8f5")
+	)
+	(junction
+		(at 166.37 66.04)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1ae19c22-286e-49a6-81e8-2ddbd7ac9940")
 	)
 	(junction
 		(at 154.94 93.98)
@@ -4813,6 +4825,12 @@
 		(uuid "b1687bdf-fab6-4593-9a33-b8549b9ce510")
 	)
 	(junction
+		(at 168.91 99.06)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b391bc53-e119-4bf0-a5cf-2e9f8dbb7122")
+	)
+	(junction
 		(at 212.09 121.92)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4916,6 +4934,16 @@
 	)
 	(wire
 		(pts
+			(xy 170.18 104.14) (xy 170.18 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "04fb1ddf-5a68-43a8-8365-e5fc1fd74429")
+	)
+	(wire
+		(pts
 			(xy 67.31 97.79) (xy 88.9 97.79)
 		)
 		(stroke
@@ -4933,6 +4961,16 @@
 			(type default)
 		)
 		(uuid "05bd0b54-8fb4-48d6-8a36-03f37d5d2436")
+	)
+	(wire
+		(pts
+			(xy 166.37 66.04) (xy 168.91 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "065938d0-7336-456e-b723-9482822a4fdc")
 	)
 	(wire
 		(pts
@@ -5336,6 +5374,16 @@
 	)
 	(wire
 		(pts
+			(xy 168.91 99.06) (xy 170.18 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2f1e18bb-5c14-4dae-b16a-8c614a2f88fc")
+	)
+	(wire
+		(pts
 			(xy 156.21 128.27) (xy 170.18 128.27)
 		)
 		(stroke
@@ -5486,6 +5534,16 @@
 	)
 	(wire
 		(pts
+			(xy 170.18 151.13) (xy 170.18 153.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3b1de403-73fc-4362-acdb-f9f9ed8018b7")
+	)
+	(wire
+		(pts
 			(xy 161.29 118.11) (xy 245.11 118.11)
 		)
 		(stroke
@@ -5526,6 +5584,16 @@
 	)
 	(wire
 		(pts
+			(xy 170.18 55.88) (xy 170.18 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3deca077-ec9d-476a-8109-2c0ad7b675ac")
+	)
+	(wire
+		(pts
 			(xy 38.1 96.52) (xy 34.29 96.52)
 		)
 		(stroke
@@ -5546,7 +5614,7 @@
 	)
 	(wire
 		(pts
-			(xy 168.91 113.03) (xy 168.91 162.56)
+			(xy 168.91 113.03) (xy 168.91 146.05)
 		)
 		(stroke
 			(width 0)
@@ -5966,7 +6034,7 @@
 	)
 	(wire
 		(pts
-			(xy 168.91 66.04) (xy 168.91 113.03)
+			(xy 168.91 66.04) (xy 168.91 99.06)
 		)
 		(stroke
 			(width 0)
@@ -6446,6 +6514,16 @@
 	)
 	(wire
 		(pts
+			(xy 168.91 99.06) (xy 168.91 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9a3b305c-3f36-47fa-8def-22c46901dd7a")
+	)
+	(wire
+		(pts
 			(xy 219.71 81.28) (xy 219.71 33.02)
 		)
 		(stroke
@@ -6503,6 +6581,16 @@
 			(type default)
 		)
 		(uuid "9fb2f11b-dbf3-40f8-9e63-3a60282fba2d")
+	)
+	(wire
+		(pts
+			(xy 166.37 50.8) (xy 166.37 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a066a04a-9f2d-4d60-9f3e-72c0126644f0")
 	)
 	(wire
 		(pts
@@ -6633,6 +6721,16 @@
 			(type default)
 		)
 		(uuid "aee280b6-625f-459e-818e-11e7a7293a31")
+	)
+	(wire
+		(pts
+			(xy 168.91 146.05) (xy 168.91 162.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aeeea550-e1de-41d7-96bb-6043a0691d49")
 	)
 	(wire
 		(pts
@@ -6846,6 +6944,16 @@
 	)
 	(wire
 		(pts
+			(xy 170.18 50.8) (xy 166.37 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c3966e3e-6598-4524-9486-5a6c06c1aec8")
+	)
+	(wire
+		(pts
 			(xy 250.19 134.62) (xy 245.11 134.62)
 		)
 		(stroke
@@ -7016,7 +7124,7 @@
 	)
 	(wire
 		(pts
-			(xy 157.48 66.04) (xy 168.91 66.04)
+			(xy 157.48 66.04) (xy 166.37 66.04)
 		)
 		(stroke
 			(width 0)
@@ -7063,6 +7171,16 @@
 			(type default)
 		)
 		(uuid "d7cbc6d8-194a-46d7-ac22-e8c4cbedb5c0")
+	)
+	(wire
+		(pts
+			(xy 168.91 146.05) (xy 170.18 146.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d7fdfca8-2ec4-4cea-8fdf-220de81e5ad7")
 	)
 	(wire
 		(pts
