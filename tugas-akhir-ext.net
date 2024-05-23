@@ -1,7 +1,7 @@
 (export (version "E")
   (design
     (source "/media/nanangcreacoll/Door/nanang/tugas akhir/kicad/kicad-tugas-akhir/tugas-akhir-ext.kicad_sch")
-    (date "2024-05-22T23:44:23+0700")
+    (date "2024-05-23T10:38:00+0700")
     (tool "Eeschema 8.0.2-8.0.2-0~ubuntu24.04.1")
     (sheet (number "1") (name "/") (tstamps "/")
       (title_block
@@ -445,7 +445,7 @@
       (sheetpath (names "/") (tstamps "/"))
       (tstamps "acff321a-4e85-47d8-ade2-854d83c015f9"))
     (comp (ref "S4")
-      (value "BUTT-2")
+      (value "RESET BUTTON")
       (footprint "BUTT-2:SW_BUTT-2")
       (fields
         (field (name "MF") "Gravitech")
